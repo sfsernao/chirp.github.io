@@ -1,1 +1,31 @@
 
+---
+---
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+// BSU Colors
+$primary-color: #003366;
+$secondary-color: #FFB81C;
+$accent-color: #0066CC;
+
+// Custom styling
+.site-title {
+  color: $primary-color;
+  font-weight: 700;
+}
+
+.page__title {
+  color: $primary-color;
+  border-bottom: 3px solid $secondary-color;
+  padding-bottom: 10px;
+}
+
+a {
+  color: $accent-color;
+}
+
+a:hover {
+  color: $secondary-color;
+}
