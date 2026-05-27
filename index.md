@@ -25,3 +25,10 @@ The **CHIRP (Collaborative Human-Integrated Research in Photonics)** group at Br
 - [**Contact**](/contact/) - Get in touch
 
 ---
+---
+
+## Latest News
+
+Check back soon for updates from the lab!
+
+---
