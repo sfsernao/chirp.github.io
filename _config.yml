@@ -2,7 +2,7 @@
 title: "CHIRP Research Group"
 description: "Collaborative Human-Integrated Research in Photonics at Bridgewater State University"
 author: "Prof. Samuel F. Serna Otálvaro"
-email: "sserna@bridgew.edu"
+email: "ssernaotalvaro@bridgew.edu"
 url: "https://chirp.github.io"
 baseurl: ""
 
@@ -19,7 +19,6 @@ header_pages:
   - _pages/research.md
   - _pages/teaching.md
   - _pages/service.md
-  - _pages/publications.md
   - _pages/team.md
   - _pages/news.md
   - _pages/contact.md
@@ -29,7 +28,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:sserna@bridgew.edu"
+      url: "mailto:ssernaotalvaro@bridgew.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chirp-research"
